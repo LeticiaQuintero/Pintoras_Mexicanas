@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+body{
+    background-color: rgb(255, 225, 252);
+    padding: 60px;
+}
+h5{
+    color: rgb(18, 41, 41);
+    font-size: 14px;
+    font-family: serif;
+}
+header{
+    background-image: linear-gradient(rgb(53, 39, 53), grey, white);
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-shadow: 3px 4px 5px rgb(173, 34, 173);
+    font-family: 'Dancing Script', cursive; 
+    font-size: 45px;
+    text-align: center;
+}
+h2{
+    color: rebeccapurple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    text-align: center;
+}
+.secc3{
+    text-align: right;
+}
+
+.pintoras{
+    display: flex;
+    border: 5px ridge greenyellow;
+    box-shadow: 15px 15px 5px rgb(22, 53, 22);
+
+}
+img{
+    height: 450px;
+    width: 100%;
+}
+section article{
+    border:3px  rgb(140, 199, 140);
+    border-style: dotted;
+    padding: 15px;
+    text-align: center;
+}
+.artistas{
+    text-align: center;
+    color: indigo;
+    font-size: 45px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+}
+footer{
+    background-image: radial-gradient(rgb(136, 136, 204), rgb(206, 200, 200) );
+    font-size: 26px;
+    font-family: 'Caveat', cursive;
+    text-align: right;
+}
